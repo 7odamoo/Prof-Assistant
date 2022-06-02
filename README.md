@@ -1,6 +1,6 @@
 Prof-Assistant
 ================
-An Project Which Aims to Help Academic Stuff in their Researches
+A Project Which Aims to Help Academic Stuff in their Researches
 ----------------------
 
 **This Project have three features**
