@@ -35,7 +35,7 @@ Pdf Converter
 
 Plagiarism Checker
 ----------------------
-* **UPLOAD / SORT**
+* **Upload / Sort**
 
    At this stage, the program receives the files to be compared and sorted.
 
